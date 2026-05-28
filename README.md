@@ -1,6 +1,6 @@
 # Ex.No.6 Development of Python Code Compatible with Multiple AI Tools
 # Name: PRADEEP V
-# Register No: 212223060020
+# Register No: 212223240119
 
 # Aim
 
